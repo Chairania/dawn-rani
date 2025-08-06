@@ -1,0 +1,119 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "gambar_grid_etkN6e": {
+      "type": "gambar-grid",
+      "blocks": {
+        "icon_EFapji": {
+          "type": "icon",
+          "settings": {
+            "icon": "shopify://shop_images/LOGO_KAPITALL-1.avif",
+            "link": "",
+            "alt": "Category"
+          }
+        },
+        "icon_K8P9Qx": {
+          "type": "icon",
+          "settings": {
+            "icon": "shopify://shop_images/LOGO_KAPITALL-1.avif",
+            "link": "",
+            "alt": "Category"
+          }
+        },
+        "icon_fzHFAf": {
+          "type": "icon",
+          "settings": {
+            "icon": "shopify://shop_images/LOGO_KAPITALL-1.avif",
+            "link": "",
+            "alt": "Category"
+          }
+        },
+        "icon_FgaUJW": {
+          "type": "icon",
+          "settings": {
+            "icon": "shopify://shop_images/LOGO_KAPITALL-1.avif",
+            "link": "",
+            "alt": "Category"
+          }
+        },
+        "icon_hL9NCw": {
+          "type": "icon",
+          "settings": {
+            "icon": "shopify://shop_images/LOGO_KAPITALL-1.avif",
+            "link": "",
+            "alt": "Category"
+          }
+        },
+        "icon_EtDFyQ": {
+          "type": "icon",
+          "settings": {
+            "icon": "shopify://shop_images/LOGO_KAPITALL-1.avif",
+            "link": "",
+            "alt": "Category"
+          }
+        }
+      },
+      "block_order": [
+        "icon_EFapji",
+        "icon_K8P9Qx",
+        "icon_fzHFAf",
+        "icon_FgaUJW",
+        "icon_hL9NCw",
+        "icon_EtDFyQ"
+      ],
+      "name": "Category Icons Grid",
+      "settings": {
+        "heading": "Categories"
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "all",
+        "products_to_show": 8,
+        "title": "Featured products",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "columns_desktop": 4,
+        "enable_desktop_slider": false,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "color_scheme": "scheme-1",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 44,
+        "padding_bottom": 36
+      }
+    },
+    "custom_teks_kPMMmq": {
+      "type": "custom-teks",
+      "name": "Custom Text Section",
+      "settings": {
+        "heading": "Favorite",
+        "subtext": ""
+      }
+    }
+  },
+  "order": [
+    "gambar_grid_etkN6e",
+    "featured_collection",
+    "custom_teks_kPMMmq"
+  ]
+}

@@ -1,0 +1,63 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "name": "t:sections.footer.name",
+  "type": "footer",
+  "sections": {
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "column_jjnHhU": {
+          "type": "column",
+          "settings": {
+            "heading": "About Our Store",
+            "content": "",
+            "menu": "tes-menu"
+          }
+        },
+        "column_eCnExg": {
+          "type": "column",
+          "settings": {
+            "heading": "Column Heading",
+            "content": "<p>Instagram</p><p>Facebook</p><p>Youtube</p>",
+            "menu": ""
+          }
+        },
+        "column_VrM4Yd": {
+          "type": "column",
+          "settings": {
+            "heading": "Contact Us",
+            "content": "<p>For faster replies, please use our instant chat feature</p><p>Whatsapp:<a href=\"https://wa.me/6287749911945\" target=\"_blank\" title=\"https://wa.me/6287749911945\">+62 877-4991-1945</a>E-mail:<a href=\"mailto:kapitalljakarta@gmail.com\" title=\"mailto:kapitalljakarta@gmail.com\">kapitalljakarta@gmail.com</a></p><p>Address:<br/>Jl. Barito II No.1A, RW.4, Kramat Pela, Kec. Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12130</p>",
+            "menu": ""
+          }
+        },
+        "column_w3kmFy": {
+          "type": "column",
+          "settings": {
+            "heading": "Column Heading",
+            "content": "<p>Example paragraph</p><p>Another one</p>",
+            "menu": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_jjnHhU",
+        "column_eCnExg",
+        "column_VrM4Yd",
+        "column_w3kmFy"
+      ],
+      "custom_css": [],
+      "settings": {}
+    }
+  },
+  "order": [
+    "footer"
+  ]
+}

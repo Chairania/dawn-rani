@@ -1,0 +1,40 @@
+.category-icons {
+  text-align: left;
+  padding: 40px 0;
+}
+
+.category-icons__heading {
+  font-size: 28px;
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+
+/* .category-icons__grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 40px;
+} */
+
+.category-icons__grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center ;
+  gap: 40px;
+}
+
+.category-icons__item {
+  transition: transform 0.3s ease;
+}
+
+.category-icons__image {
+  width: 120px;
+  height: auto;
+  transition: transform 0.3s ease;
+}
+
+.category-icons__item:hover .category-icons__image {
+  transform: scale(1.1);
+  cursor: pointer;
+}
+

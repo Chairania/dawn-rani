@@ -74,6 +74,60 @@
         "heading": "Categories"
       }
     },
+    "collection_custom_YCRMqm": {
+      "type": "collection-custom",
+      "blocks": {
+        "collection_item_6YBGCT": {
+          "type": "collection_item",
+          "settings": {
+            "image": "shopify://shop_images/m2.webp",
+            "link": "",
+            "alt": "Collection image"
+          }
+        },
+        "collection_item_cKPjYm": {
+          "type": "collection_item",
+          "settings": {
+            "image": "shopify://shop_images/m6.webp",
+            "link": "",
+            "alt": "Collection image"
+          }
+        },
+        "collection_item_fhrM4f": {
+          "type": "collection_item",
+          "settings": {
+            "image": "shopify://shop_images/m3.webp",
+            "link": "",
+            "alt": "Collection image"
+          }
+        },
+        "collection_item_TeAMWW": {
+          "type": "collection_item",
+          "settings": {
+            "link": "",
+            "alt": "Collection image"
+          }
+        },
+        "collection_item_QYMJmC": {
+          "type": "collection_item",
+          "settings": {
+            "link": "",
+            "alt": "Collection image"
+          }
+        }
+      },
+      "block_order": [
+        "collection_item_6YBGCT",
+        "collection_item_cKPjYm",
+        "collection_item_fhrM4f",
+        "collection_item_TeAMWW",
+        "collection_item_QYMJmC"
+      ],
+      "name": "Collection Grid Default",
+      "settings": {
+        "heading": "Our Collections"
+      }
+    },
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
@@ -113,6 +167,7 @@
   },
   "order": [
     "gambar_grid_etkN6e",
+    "collection_custom_YCRMqm",
     "featured_collection",
     "custom_teks_kPMMmq"
   ]

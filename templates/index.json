@@ -104,11 +104,67 @@
         "collection_item_TeAMWW": {
           "type": "collection_item",
           "settings": {
+            "image": "shopify://shop_images/m5.webp",
             "link": "",
             "alt": "Collection image"
           }
         },
         "collection_item_QYMJmC": {
+          "type": "collection_item",
+          "settings": {
+            "image": "shopify://shop_images/m4.webp",
+            "link": "",
+            "alt": "Collection image"
+          }
+        },
+        "collection_item_BXBrja": {
+          "type": "collection_item",
+          "settings": {
+            "image": "shopify://shop_images/m5.webp",
+            "link": "",
+            "alt": "Collection image"
+          }
+        },
+        "collection_item_7Q9xNJ": {
+          "type": "collection_item",
+          "settings": {
+            "image": "shopify://shop_images/m1.webp",
+            "link": "",
+            "alt": "Collection image"
+          }
+        },
+        "collection_item_XRNafp": {
+          "type": "collection_item",
+          "settings": {
+            "image": "shopify://shop_images/m6.webp",
+            "link": "",
+            "alt": "Collection image"
+          }
+        },
+        "collection_item_7DhceC": {
+          "type": "collection_item",
+          "settings": {
+            "image": "shopify://shop_images/m3.webp",
+            "link": "",
+            "alt": "Collection image"
+          }
+        },
+        "collection_item_EEXV6r": {
+          "type": "collection_item",
+          "settings": {
+            "image": "shopify://shop_images/m2.webp",
+            "link": "",
+            "alt": "Collection image"
+          }
+        },
+        "collection_item_9xFpAx": {
+          "type": "collection_item",
+          "settings": {
+            "link": "",
+            "alt": "Collection image"
+          }
+        },
+        "collection_item_QWbgeE": {
           "type": "collection_item",
           "settings": {
             "link": "",
@@ -121,7 +177,14 @@
         "collection_item_cKPjYm",
         "collection_item_fhrM4f",
         "collection_item_TeAMWW",
-        "collection_item_QYMJmC"
+        "collection_item_QYMJmC",
+        "collection_item_BXBrja",
+        "collection_item_7Q9xNJ",
+        "collection_item_XRNafp",
+        "collection_item_7DhceC",
+        "collection_item_EEXV6r",
+        "collection_item_9xFpAx",
+        "collection_item_QWbgeE"
       ],
       "name": "Collection Grid Default",
       "settings": {

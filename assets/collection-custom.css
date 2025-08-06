@@ -1,0 +1,39 @@
+.collection-grid {
+  padding: 32px 0;
+}
+
+.collection-grid__heading {
+  text-align: left;
+  font-size: 28px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.collection-grid__wrapper {
+  display: grid;
+  gap: 16px;
+  grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+}
+
+.collection-grid__item {
+  position: relative;
+  aspect-ratio: 1 / 1; /* Bikin 1:1 kotak */
+  overflow: hidden;
+  border-radius: 12px;
+}
+
+.collection-grid__link,
+.collection-grid__image {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+  border-radius: 12px;
+  display: block;
+}
+
+.collection-grid__link:hover .collection-grid__image {
+  transform: scale(1.05);
+}

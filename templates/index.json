@@ -9,65 +9,65 @@
  */
 {
   "sections": {
-    "gambar_grid_etkN6e": {
+    "gambar_grid_ey4HUN": {
       "type": "gambar-grid",
       "blocks": {
-        "icon_EFapji": {
+        "icon_aPdxcC": {
           "type": "icon",
           "settings": {
-            "icon": "shopify://shop_images/LOGO_KAPITALL-1.avif",
+            "icon": "shopify://shop_images/1.avif",
             "link": "",
             "alt": "Category"
           }
         },
-        "icon_K8P9Qx": {
+        "icon_Fh6QzK": {
           "type": "icon",
           "settings": {
-            "icon": "shopify://shop_images/LOGO_KAPITALL-1.avif",
+            "icon": "shopify://shop_images/2.avif",
             "link": "",
             "alt": "Category"
           }
         },
-        "icon_fzHFAf": {
+        "icon_ep7b6E": {
           "type": "icon",
           "settings": {
-            "icon": "shopify://shop_images/LOGO_KAPITALL-1.avif",
+            "icon": "shopify://shop_images/3.avif",
             "link": "",
             "alt": "Category"
           }
         },
-        "icon_FgaUJW": {
+        "icon_jCRMc7": {
           "type": "icon",
           "settings": {
-            "icon": "shopify://shop_images/LOGO_KAPITALL-1.avif",
+            "icon": "shopify://shop_images/4.avif",
             "link": "",
             "alt": "Category"
           }
         },
-        "icon_hL9NCw": {
+        "icon_dVQ67b": {
           "type": "icon",
           "settings": {
-            "icon": "shopify://shop_images/LOGO_KAPITALL-1.avif",
+            "icon": "shopify://shop_images/5.avif",
             "link": "",
             "alt": "Category"
           }
         },
-        "icon_EtDFyQ": {
+        "icon_g9QXVy": {
           "type": "icon",
           "settings": {
-            "icon": "shopify://shop_images/LOGO_KAPITALL-1.avif",
+            "icon": "shopify://shop_images/6.avif",
             "link": "",
             "alt": "Category"
           }
         }
       },
       "block_order": [
-        "icon_EFapji",
-        "icon_K8P9Qx",
-        "icon_fzHFAf",
-        "icon_FgaUJW",
-        "icon_hL9NCw",
-        "icon_EtDFyQ"
+        "icon_aPdxcC",
+        "icon_Fh6QzK",
+        "icon_ep7b6E",
+        "icon_jCRMc7",
+        "icon_dVQ67b",
+        "icon_g9QXVy"
       ],
       "name": "Category Icons Grid",
       "settings": {
@@ -229,7 +229,7 @@
     }
   },
   "order": [
-    "gambar_grid_etkN6e",
+    "gambar_grid_ey4HUN",
     "collection_custom_YCRMqm",
     "featured_collection",
     "custom_teks_kPMMmq"

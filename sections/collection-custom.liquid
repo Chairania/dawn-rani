@@ -1,6 +1,6 @@
-{{ 'collection-scroll.js' | asset_url | script_tag }}
+{% comment %} {{ 'collection-scroll.js' | asset_url | script_tag }} {% endcomment %}
 {{ 'collection-custom.css' | asset_url | stylesheet_tag }}
-{% comment %} <script src="{{ 'collection-scroll.js' | asset_url }}" defer></script> {% endcomment %}
+<script src="{{ 'collection-scroll.js' | asset_url }}" defer></script> 
 
 <section class="collection-grid">
   <div class="page-width">

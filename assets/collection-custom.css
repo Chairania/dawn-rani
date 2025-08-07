@@ -1,5 +1,6 @@
 .collection-grid {
   padding: 32px 0;
+  overflow-x: hidden;
 }
 
 .collection-grid__heading {
@@ -11,15 +12,25 @@
 
 .collection-grid__wrapper {
   display: grid;
+  grid-auto-flow: column;
+  grid-auto-columns: 200px; 
+  grid-template-rows: repeat(2, 1fr);
   gap: 16px;
-  grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none;
+}
+.collection-grid__wrapper::-webkit-scrollbar {
+  display: none;
 }
 
 .collection-grid__item {
-  position: relative;
-  aspect-ratio: 1 / 1; /* Bikin 1:1 kotak */
+  aspect-ratio: 1 / 1;
   overflow: hidden;
   border-radius: 12px;
+  scroll-snap-align: start;
+  position: relative;
 }
 
 .collection-grid__link,

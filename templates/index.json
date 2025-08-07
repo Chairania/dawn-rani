@@ -165,6 +165,22 @@
             "alt": "Collection image"
           }
         },
+        "collection_item_MibNwD": {
+          "type": "collection_item",
+          "settings": {
+            "image": "shopify://shop_images/poster_2.webp",
+            "link": "",
+            "alt": "Collection image"
+          }
+        },
+        "collection_item_DJMPeF": {
+          "type": "collection_item",
+          "settings": {
+            "image": "shopify://shop_images/m1.webp",
+            "link": "",
+            "alt": "Collection image"
+          }
+        },
         "collection_item_QWbgeE": {
           "type": "collection_item",
           "settings": {
@@ -186,6 +202,8 @@
         "collection_item_7DhceC",
         "collection_item_EEXV6r",
         "collection_item_9xFpAx",
+        "collection_item_MibNwD",
+        "collection_item_DJMPeF",
         "collection_item_QWbgeE"
       ],
       "name": "Collection Grid Default",

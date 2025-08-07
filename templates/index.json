@@ -219,12 +219,42 @@
         "padding_bottom": 36
       }
     },
-    "custom_teks_kPMMmq": {
-      "type": "custom-teks",
-      "name": "Custom Text Section",
+    "promo_grid_dK8CmC": {
+      "type": "promo-grid",
+      "blocks": {
+        "promo_y8HKbW": {
+          "type": "promo",
+          "settings": {
+            "image": "shopify://shop_images/poster1.webp",
+            "link": "",
+            "alt": "Promo Banner"
+          }
+        },
+        "promo_ENQYjy": {
+          "type": "promo",
+          "settings": {
+            "image": "shopify://shop_images/poster_2.webp",
+            "link": "",
+            "alt": "Promo Banner"
+          }
+        },
+        "promo_ECJArp": {
+          "type": "promo",
+          "settings": {
+            "image": "shopify://shop_images/poster_3.webp",
+            "link": "",
+            "alt": "Promo Banner"
+          }
+        }
+      },
+      "block_order": [
+        "promo_y8HKbW",
+        "promo_ENQYjy",
+        "promo_ECJArp"
+      ],
+      "name": "Promo Grid",
       "settings": {
-        "heading": "Favorite",
-        "subtext": ""
+        "heading": "Our Promotions"
       }
     }
   },
@@ -232,6 +262,6 @@
     "gambar_grid_ey4HUN",
     "collection_custom_YCRMqm",
     "featured_collection",
-    "custom_teks_kPMMmq"
+    "promo_grid_dK8CmC"
   ]
 }

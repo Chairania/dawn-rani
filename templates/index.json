@@ -160,6 +160,7 @@
         "collection_item_9xFpAx": {
           "type": "collection_item",
           "settings": {
+            "image": "shopify://shop_images/m4.webp",
             "link": "",
             "alt": "Collection image"
           }
@@ -167,6 +168,7 @@
         "collection_item_QWbgeE": {
           "type": "collection_item",
           "settings": {
+            "image": "shopify://shop_images/m2.webp",
             "link": "",
             "alt": "Collection image"
           }
